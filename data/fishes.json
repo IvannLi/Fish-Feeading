@@ -1,0 +1,578 @@
+[
+  {
+    "Fish Name": "Afra Cichlid",
+    "Family": "Cichlidae",
+    "Origin": "Lake Malawi, Africa",
+    "Environment": "freshwater",
+    "Feeding": "Cynotilapia afra (Afra cichlid) accepts most food types including pellets.",
+    "Life Span": "7-10 years",
+    "Temperament": "Aggressive"
+  },
+  {
+    "Fish Name": "African Butterfly Cichlid",
+    "Family": "Cichlidae",
+    "Origin": "Western Africa: Sierra Leone and Liberia",
+    "Environment": "freshwater",
+    "Feeding": "Accepts flake food as well as most other food types.",
+    "Life Span": "3-5 years",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "African Butter Catfish",
+    "Family": "Schilbeidae",
+    "Origin": "Africa. including the Nile and the Zambesi system",
+    "Environment": "freshwater",
+    "Feeding": "Accepts all kinds of food.",
+    "Life Span": "6 years",
+    "Temperament": "non aggressive"
+  },
+  {
+    "Fish Name": "African Knife Fish",
+    "Family": "Rhamphichthyidae",
+    "Origin": "Africa. coastal river basins in Sierra Leone, Liberia, Togo, Benin and Cameroon; also in the Chad, the Nile, the Congo, the Niger (Benue and Niger Delta), the Ogôoué and the Congo (Cuvette Centrale and Ubangui) basins.",
+    "Environment": "Freshwater",
+    "Feeding": "Accepts live and frozen food. Some species accepts pellets and flakes others need too be weaned before they accepts pellets and flakes.",
+    "Life Span": "10 years",
+    "Temperament": "non aggressive"
+  },
+  {
+    "Fish Name": "African Snakehead",
+    "Family": "Channidae",
+    "Origin": "White Nile, Lake Chad basin, Zaire",
+    "Environment": "freshwater",
+    "Feeding": "Parachanna obscura (African Snakehead) will accept all live food and often frozen food.",
+    "Life Span": "not mentioned",
+    "Temperament": "Predatory"
+  },
+  {
+    "Fish Name": "Agassiz Dwarf Cichlid",
+    "Family": "Cichlidae",
+    "Origin": "South America",
+    "Environment": "freshwater",
+    "Feeding": "Apistogramma agassizii (Agassiz' Dwarf Cichlid ) prefers frozen food. They need a varied diet and should not be kept on flake food alone even if some fish accept flake food.",
+    "Life Span": "5-10 years",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Akar Betta",
+    "Family": "Belontiidae",
+    "Origin": "Sarawak, Brunei",
+    "Environment": "freshwater",
+    "Feeding": "Omnivorous",
+    "Life Span": "2-3 years",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Albino Corydora",
+    "Family": "Callichthyidae",
+    "Origin": "South American Amazon Region",
+    "Environment": "Freshwater",
+    "Feeding": "C. Aeneus will feed upon any small bits of flake that fall to the bottom of the aquarium, some algaes, and their diet can be supplemented with sinking shrimp pellets.",
+    "Life Span": "10 years",
+    "Temperament": "very peaceful"
+  },
+  {
+    "Fish Name": "El Abra Pygmy Swordtail",
+    "Family": "Poeciliidae",
+    "Origin": "Central America: Rio Choy of the Rio Panuco basin in San Luis Potosi, Mexico.",
+    "Environment": "freshwater",
+    "Feeding": "El Abra Pygmy Swordtail accept most food sources.",
+    "Life Span": "not mentioned",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Amiet's Lyretail",
+    "Family": "Aplocheilidae",
+    "Origin": "Fundulopanchax amieti (Amiet's Lyretail) is found in a forest stream on the road to Koupongo, 500 meters west of Somakak, Sanaga basin, Cameroon.",
+    "Environment": "freshwater",
+    "Feeding": "Fundulopanchax amieti (Amiet's Lyretail) is best kept on live food. They will however accept commercial foods. Frozen Mosquito larvae are recommended if live food isn’t an option.",
+    "Life Span": "1-2 years",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Asian Arowana",
+    "Family": "Osteoglossidae",
+    "Origin": "Asia. Indonesia, Malaysia, Thailand, Cambodia and Viet Nam",
+    "Environment": "freshwater",
+    "Feeding": "Accepts all kind of live food",
+    "Life Span": "60 years",
+    "Temperament": "non aggressive"
+  },
+  {
+    "Fish Name": "Archerfish",
+    "Family": "Toxotidae",
+    "Origin": "Asia and Oceania. India eastward to the Philippines, and south to Indonesia, Vanuatu, Solomon Islands, Papua New Guinea, and northern Australia",
+    "Environment": "fresh and brackish water",
+    "Feeding": "Prefers living food which it eats by the surface such as insects and surface dwelling fish. Flake food and frozen food are sometimes accepted however flake food must not be the only food source.",
+    "Life Span": "two years",
+    "Temperament": "non aggressive"
+  },
+  {
+    "Fish Name": "Argus Fish",
+    "Family": "Scatophagidae",
+    "Origin": "Indo-Pacific. Kuwait to Vanuatu and New Caledonia, north to southern Japan; Palau to Pohnpei in Micronesia",
+    "Environment": "Fresh, brackish and marine water",
+    "Feeding": "Accepts most foods including flakes.",
+    "Life Span": "20 years",
+    "Temperament": "non aggressive"
+  },
+  {
+    "Fish Name": "Arnoldi",
+    "Family": "Aplocheilidae",
+    "Origin": "Mainly restricted to the Niger Delta .",
+    "Environment": "Freshwater",
+    "Feeding": "Fundulopanchax arnoldi will usually accept flake food but should preferable be feed frozen and live food.",
+    "Life Span": "3 years",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Aulonocara Maulana",
+    "Family": "Cichlidae",
+    "Origin": "Lake Malawi",
+    "Environment": "freshwater",
+    "Feeding": "Accepts all kinds of food.",
+    "Life Span": "6 to 10 years",
+    "Temperament": "Aggressive"
+  },
+  {
+    "Fish Name": "Aulonocara Benga",
+    "Family": "Cichlidae",
+    "Origin": "Lake Malawi: Chipoka, Maleri Islands, Nkhomo, and Usisya",
+    "Environment": "freshwater",
+    "Feeding": "Accepts all kinds of food.",
+    "Life Span": "6 years",
+    "Temperament": "non aggressive"
+  },
+  {
+    "Fish Name": "Australian Pearl Arowana",
+    "Family": "Osteoglossidae",
+    "Origin": "Asia and Oceania. northern Australia and New Guinea.",
+    "Environment": "Freshwater",
+    "Feeding": "Fish, crayfish, insects and after training pellets.",
+    "Life Span": "20 years",
+    "Temperament": "non aggressive"
+  },
+  {
+    "Fish Name": "Azureus Cichlid",
+    "Family": "Cichlidae",
+    "Origin": "Lake Malawi: Mbenji Islands Nakatenga and Maleri Islands, Nkhomo Reef near Benga and Eccles Reef south of Makanjila.",
+    "Environment": "freshwater",
+    "Feeding": "Accepts all kinds of food.",
+    "Life Span": "5-6 years",
+    "Temperament": "non aggressive"
+  },
+  {
+    "Fish Name": "Badis",
+    "Family": "Badidae",
+    "Origin": "India",
+    "Environment": "freshwater",
+    "Feeding": "Badis Badis (Badis) accepts most small foods including small flake food.",
+    "Life Span": "3-6 years",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Bala Shark",
+    "Family": "Cyprinidae",
+    "Origin": "Southeast Asia",
+    "Environment": "freshwater",
+    "Feeding": "Balantiocheilus melanoptrus (Bala shark) accepts most foods and might eat some aquarium plants",
+    "Life Span": "10 years",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Banded Knife Fish",
+    "Family": "Gymnotidae",
+    "Origin": "South America",
+    "Environment": "Freshwater",
+    "Feeding": "Accepts live and frozen food. Some accepts pellets and flakes right away others need too be weaned before they accepts pellets and flakes.",
+    "Life Span": "15 years",
+    "Temperament": "non aggressive"
+  },
+  {
+    "Fish Name": "Bangka Snakehead",
+    "Family": "Channidae",
+    "Origin": "Sumatra, Bangka Island",
+    "Environment": "freshwater",
+    "Feeding": "Channa bankanensis (Bangka Snakehead) accepts all meaty food.",
+    "Life Span": "8 years",
+    "Temperament": "Aggressive"
+  },
+  {
+    "Fish Name": "Baram Snakehead",
+    "Family": "Channidae",
+    "Origin": "Northern Sarawak, Brunei, and western Sabah (northern Borneo).",
+    "Environment": "freshwater",
+    "Feeding": "Accepts all meaty foods. They prefer to be feed live food.",
+    "Life Span": "8 years",
+    "Temperament": "Predatory"
+  },
+  {
+    "Fish Name": "Barca Snakehead",
+    "Family": "Channidae",
+    "Origin": "Channa barca (Barca Snakehead) is found in Ganges and Brahmaputra River basin, India and Bangladesh.",
+    "Environment": "freshwater",
+    "Feeding": "Channa barca (Barca Snakehead) prefers live food but accepts most live food.",
+    "Life Span": "8 years",
+    "Temperament": "Aggressive"
+  },
+  {
+    "Fish Name": "Batik Loach",
+    "Family": "Cobitidae",
+    "Origin": "India",
+    "Environment": "freshwater",
+    "Feeding": "Neomacheilus triangularis (Batik Loach) excepts most foods.",
+    "Life Span": "3-5 years",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Banded Bichir",
+    "Family": "Polypteridae",
+    "Origin": "Central basin of Congo River, Africa",
+    "Environment": "Freshwater",
+    "Feeding": "All kinds if frozen foods. Some specimens can be trained to accept pellets.",
+    "Life Span": "10-15 years",
+    "Temperament": "non aggressive but predatory"
+  },
+  {
+    "Fish Name": "Banded Shovelnose Catfish",
+    "Family": "Pimelodidae",
+    "Origin": "South America. Amazon and Orinoco River basin.",
+    "Environment": "freshwater",
+    "Feeding": "Accepts all kind of live food. This species is sometimes hard to get to accept other kinds of food",
+    "Life Span": "not mentioned",
+    "Temperament": "Non aggresive Predator"
+  },
+  {
+    "Fish Name": "Barred Knife Fish",
+    "Family": "Hypopomidae",
+    "Origin": "South America. Guinas and the Amazon River basin.",
+    "Environment": "Freshwater",
+    "Feeding": "accepts live and frozen food. After some weaning they usually accepts carnivore pellets.",
+    "Life Span": "15 years",
+    "Temperament": "non aggressive"
+  },
+  {
+    "Fish Name": "Barred Sorubim",
+    "Family": "Pimelodidae",
+    "Origin": "South America. Amazon, Corintijns, Essequibo, Orinoco and Paraná River basins",
+    "Environment": "freshwater",
+    "Feeding": "Accepts all kinds of live food. Can be thought too eat meat and fish pieces.",
+    "Life Span": "not mentioned",
+    "Temperament": "Aggresive Predator"
+  },
+  {
+    "Fish Name": "Cardinal Tetra",
+    "Family": "Characidae",
+    "Origin": "Paracheirodon axelrodi (Cardinal Tetra) is widespread from Brazil to Eastern Colombia.",
+    "Environment": "Freshwater",
+    "Feeding": "Paracheirodon axelrodi eats flake food. However live foods is often required to get them in spawning condition.",
+    "Life Span": "upto 5 years",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Catemaco Livebearer",
+    "Family": "Poeciliidae",
+    "Origin": "Central America: Catemaco in Veracruz, Mexico.",
+    "Environment": "freshwater",
+    "Feeding": "The Catemaco Livebeare prefers live and froze food. They will however usually accept most food sources.",
+    "Life Span": "not mentioned",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Celebes Halfbeak",
+    "Family": "Hemiramphidae",
+    "Origin": "Island of Sulawesi, Indonesia, Asia",
+    "Environment": "Freshwater",
+    "Feeding": "All kinds of small food.",
+    "Life Span": "2-3 years",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Ceylon Snakehead",
+    "Family": "Channidae",
+    "Origin": "Southwestern Sri Lanka",
+    "Environment": "freshwater",
+    "Feeding": "Channa orientalis (Ceylon Snakehead) accepts live and frozen food.",
+    "Life Span": "8 years",
+    "Temperament": "Predatory"
+  },
+  {
+    "Fish Name": "Chel Snakehead",
+    "Family": "Channidae",
+    "Origin": "Brahmaputra River drainage, Northeastern India and Bhutan",
+    "Environment": "freshwater",
+    "Feeding": "Channa amphibeus (Chel Snakehead) are a predatory species and should be feed accordingly",
+    "Life Span": "8 years",
+    "Temperament": "Predatory"
+  },
+  {
+    "Fish Name": "Cherry Barb",
+    "Family": "Cyprinidae",
+    "Origin": "Sri Lanka",
+    "Environment": "freshwater",
+    "Feeding": "Barbus titteya (Cherry Barb) accepts most food sources including flake food",
+    "Life Span": "4 years",
+    "Temperament": "Predatory"
+  },
+  {
+    "Fish Name": "Chevron Snakehead",
+    "Family": "Channidae",
+    "Origin": "Pakistan, most drainages of India, Southern Nepal, Sri Lanka, Bangladesh, Myanmar, Thailand, Cambodia, Southern China, Malay Archipelago",
+    "Environment": "freshwater",
+    "Feeding": "Channa striata (Chevron Snakehead) will accept all living food that is appropriate for their size. Fry eat algae",
+    "Life Span": "8 years",
+    "Temperament": "Predatory"
+  },
+  {
+    "Fish Name": "Chilumba",
+    "Family": "Cichlidae",
+    "Origin": "Endemic to Lake Malawi, Africa. Particularly concentrated around the shores of Mbenji Island",
+    "Environment": "freshwater",
+    "Feeding": "Aulonocara stuartgranti sp. Chilumba(Chilumba) accepts all kinds of food. Vegetables should be an important part of their diet",
+    "Life Span": "25-35 years",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Chinese Snakehead",
+    "Family": "Channidae",
+    "Origin": "China, middle and lower Chang Jiang (Yangtze) basin, and Xun River basin in Guangxi and Guangdong provinces",
+    "Environment": "freshwater",
+    "Feeding": "Channa asiatica (Chinese Snakehead) accepts most meaty food",
+    "Life Span": "8 years",
+    "Temperament": "Aggressive"
+  },
+  {
+    "Fish Name": "Cinnamon Killifish",
+    "Family": "Aplocheilidae",
+    "Origin": "Africa. Endemic to the upper reaches of the Mungo drainage.",
+    "Environment": "freshwater",
+    "Feeding": "Accepts all kinds of food. Their diet should if possible include small live food",
+    "Life Span": "3-10 months",
+    "Temperament": "non aggressive"
+  },
+  {
+    "Fish Name": "Clown Barb",
+    "Family": "Cyprinds",
+    "Origin": "Southeast Asia; Borneo, Bunguran Islands, Singapore",
+    "Environment": "Still and slow-moving fresh water",
+    "Feeding": "Barbus Everetti (Clown barb) will accept most food including flake food",
+    "Life Span": "4-8 years",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Clown Killifish",
+    "Family": "Aplocheilidae",
+    "Origin": "Africa: Guinea, Liberia and Sierra Leone",
+    "Environment": "Fresh water",
+    "Feeding": "Accepts most foods including flakes",
+    "Life Span": "3-5 years",
+    "Temperament": "Peaceful,timid"
+  },
+  {
+    "Fish Name": "Clown Killi",
+    "Family": "Aplocheilidae",
+    "Origin": "West Africa",
+    "Environment": "Freshwater",
+    "Feeding": "Small sinking pellets. They will eat debris from bottom also. They enjoy brine shrimp, tubifex worms, bloodworms, and frozen mysis",
+    "Life Span": "3-5 years",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Clown Knife Fish",
+    "Family": "Notopteridae",
+    "Origin": "Asia. Mekong basin in Laos, Thailand, Cambodia and Viet Nam; Chao Phraya and Meklong basins",
+    "Environment": "freshwater",
+    "Feeding": "Accepts most kinds of live and frozen food. Some specimens accept pellets and try food. Many specimens will only eat during the night",
+    "Life Span": "8-15 years",
+    "Temperament": "Aggressive towards its own species but timid towards other species"
+  },
+  {
+    "Fish Name": "Demasoni Cichlid",
+    "Family": "Cichlidae",
+    "Origin": "Lake Malawi, Pombo Rocks",
+    "Environment": "",
+    "Feeding": "Accepts all kinds, however the bulk of their diet should consist of vegetables",
+    "Life Span": "about 10 years",
+    "Temperament": "Very Aggressive"
+  },
+  {
+    "Fish Name": "Diamond Tetra",
+    "Family": "Characidae",
+    "Origin": "South America - in the waters of Lake Valencia, Rio Bue, Rio Tiquiriti and in Venezuela",
+    "Environment": "freshwater",
+    "Feeding": "They are not fussy eaters and accept most foods including flake food",
+    "Life Span": "3-6 years",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Dovii Cichlid",
+    "Family": "Cichlidae",
+    "Origin": "Central America, Hondorus, Costa Rica, Nicaragua",
+    "Environment": "Freshwater",
+    "Feeding": "The Dovii is an opportunistic eater and should be feed extra large pellets, worms, bloodworms, tubfex works, beefheart, insects, krill, and due to the size it is very common to feed goldfish. If goldfish are used due to the fish size and nutritional requirements use a separate quarantine tank to prevent spreading disease",
+    "Life Span": "30 years",
+    "Temperament": "Very Aggressive"
+  },
+  {
+    "Fish Name": "Double Lipspot Mouthbrooder",
+    "Family": "Belontiidae",
+    "Origin": "Malaysia",
+    "Environment": "freshwater",
+    "Feeding": "Betta spilotogena (Double lipspot Mouthbrooder) accepts most frozen and live food",
+    "Life Span": "not mentioned",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Duckbill Catfish",
+    "Family": "Pimelodidae",
+    "Origin": "South America: Amazon, Orinoco, Paraná and Parnaíba River basins",
+    "Environment": "freshwater",
+    "Feeding": "Accepts all kinds of live food. Can be thought too accept frozen food and pellets",
+    "Life Span": "around 10 years",
+    "Temperament": "Aggressive Predator"
+  },
+  {
+    "Fish Name": "Dusky Piranha",
+    "Family": "Serrasalmidae",
+    "Origin": "Amazon",
+    "Environment": "freshwater",
+    "Feeding": "Serrasalmus calmoni (Dusky Piranha) should be feed live food",
+    "Life Span": "10-20 years",
+    "Temperament": "Aggressive"
+  },
+  {
+    "Fish Name": "Dwarf Croaking Gourami",
+    "Family": "Belontiidae",
+    "Origin": "N/A",
+    "Environment": "freshwater",
+    "Feeding": "They prefer live and frozen food but usually accept flake food",
+    "Life Span": "2 years",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Electric Blue Hap",
+    "Family": "Cichlidae",
+    "Origin": "Lake Malawi",
+    "Environment": "freshwater",
+    "Feeding": "Accepts all kinds",
+    "Life Span": "7-10 years",
+    "Temperament": "Aggressive"
+  },
+  {
+    "Fish Name": "Electric Catfish",
+    "Family": "Malapteruridae",
+    "Origin": "throughout Central Africa",
+    "Environment": "freshwater",
+    "Feeding": "They prefer live and frozen food. Can sometimes be thought to accept pellets",
+    "Life Span": "8-10 years",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Electric Yellow Lab",
+    "Family": "Cichlidae",
+    "Origin": "Lake Malawi, north-western coast",
+    "Environment": "freshwater",
+    "Feeding": "Accepts all kinds, vegetable is important and should be the bulk of their diet",
+    "Life Span": "6-10 years",
+    "Temperament": "Aggressive"
+  },
+  {
+    "Fish Name": "El Quince Swordtail",
+    "Family": "Poeciliidae",
+    "Origin": "Central America: Rio Panuco drainage in San Luis Potosi, Mexico",
+    "Environment": "freshwater",
+    "Feeding": "Xiphophorus continens (El Quince Swordtail) accept most types of food",
+    "Life Span": "3-5 years",
+    "Temperament": "peaceful"
+  },
+  {
+    "Fish Name": "Emperor Snakehead",
+    "Family": "Channidae",
+    "Origin": "Channa marulioides (Emperor Snakehead) is found in rivers in southeastern Sumatra, Kapuas basin of western Kalimantan",
+    "Environment": "freshwater",
+    "Feeding": "Will like most other snakeheads eat almost any meaty food you give them or can be trained to do so",
+    "Life Span": "8 years",
+    "Temperament": "Aggressive"
+  },
+  {
+    "Fish Name": "Eureka Cichlid",
+    "Family": "Cichlidae",
+    "Origin": "Lake Malawi: Nkudzi, Monkey Bay, Nankumba, Domwe Islands, Otter Point",
+    "Environment": "freshwater",
+    "Feeding": "Accepts all kinds of food",
+    "Life Span": "8-10 years",
+    "Temperament": "non aggressive"
+  },
+  {
+    "Fish Name": "Eyespot Mouthbrooder",
+    "Family": "Belontiidae",
+    "Origin": "Sabah, Borneo; Tawau",
+    "Environment": "freshwater",
+    "Feeding": "Omnivorous",
+    "Life Span": "4 years",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Indian Glassfish",
+    "Family": "Ambassidae",
+    "Origin": "Asia. Pakistan, India, Bangladesh, Myanmar, Thailand, and Malaysia",
+    "Environment": "Fresh water",
+    "Feeding": "Accepts most foods including flakes",
+    "Life Span": "3-4 years",
+    "Temperament": "Peaceful,timid"
+  },
+  {
+    "Fish Name": "Indonesian Datnoid",
+    "Family": "Coiidae",
+    "Origin": "Southeast Asia, including Chao Phraya and Mekong basins of the mainland and the Kapuas basin in western Borneo and Musi basin in Sumatra",
+    "Environment": "Freshwater, light brackish rivers and lakes",
+    "Feeding": "Live fish, after training frozen shrimps, worms and pellets",
+    "Life Span": "15 years",
+    "Temperament": "Semi-aggressive"
+  },
+  {
+    "Fish Name": "Inle Snakehead",
+    "Family": "Channidae",
+    "Origin": "Channa harcourtbutleri (Inle Snakehead) is found in Yawnghwe and nearby areas of Myanmar",
+    "Environment": "freshwater",
+    "Feeding": "This Channa accept most meaty foods",
+    "Life Span": "8 years",
+    "Temperament": "Aggressive"
+  },
+  {
+    "Fish Name": "Jack Dempsey Cichlid",
+    "Family": "Cichlidae",
+    "Origin": "Yucatan Peninsula, Central America",
+    "Environment": "freshwater",
+    "Feeding": "Archocentrus octofasciatum (Jack Dempsey) accepts all kind of food",
+    "Life Span": "not mentioned",
+    "Temperament": "Aggressive"
+  },
+  {
+    "Fish Name": "Javan Mouthbrooding Fighting Fish",
+    "Family": "Belontiidae",
+    "Origin": "Sumatra; Java; Malaysia",
+    "Environment": "freshwater",
+    "Feeding": "Betta picta (Javan Mouth-brooding Fighting Fish accept most types of food",
+    "Life Span": "3-5 years",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Jelly Bean Tetra",
+    "Family": "Alestidae",
+    "Origin": "Liberia, Ivory Coast, Sierra Leone, Ghana",
+    "Environment": "freshwater",
+    "Feeding": "Ladigesia roloffi (Jelly Bean Tetra) will accept flake food",
+    "Life Span": "3-5 years",
+    "Temperament": "Peaceful"
+  },
+  {
+    "Fish Name": "Julii Cory",
+    "Family": "Callichthyidae",
+    "Origin": "Lower Amazon River and coastal rivers in northeastern Brazil",
+    "Environment": "Freshwater",
+    "Feeding": "Accepts flake foods, algae wafers, Cory pellets, shrimp pellets, insects, benthic crustaceans, most types of worms including diced earthworms, and most plant and vegetable matter",
+    "Life Span": "5 years",
+    "Temperament": "very peaceful"
+  }
+]

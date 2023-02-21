@@ -6,21 +6,67 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+.toFishesButton {
+  width: 200px;
+  padding: 1em;
+  font-size: 1.25rem;
+  text-align: center;
+  list-style: none;
+  border: solid 3px rgb(0, 119, 255);
+  border-radius: 70px;
+  font-weight: bold;
+  color: #0077ff;
+  cursor: pointer;
 }
 
-* {
-  box-sizing: border-box;
+.filterItem {
+  width: 150px;
+  padding: 0.5em;
+  margin: 1em;
+  text-align: center;
+  list-style: none;
+  border: solid 3px rgb(0, 119, 255);
+  border-radius: 25px;
+  font-weight: bold;
+  color: #0077ff;
+  cursor: pointer;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
+.filterItemselect {
+  width: 150px;
+  padding: 0.5em;
+  margin: 1em;
+  text-align: center;
+  list-style: none;
+  border: solid 3px #0077ff;
+  border-radius: 25px;
+  cursor: pointer;
+  background-color: #0077ff;
+  color: white;
+  font-weight: bold;
+}
+
+.filterItem:hover {
+  color: white;
+  background-color: #2289ff;
+  border: solid 3px #0077ff;
+}
+
+.filterItemselect:hover {
+  color: white;
+  background-color: #0064d7;
+  border: solid 3px #0064d7;
+}
+
+.headerImagerotate {
+  width: 100px;
+  height: inherit;
+  cursor: pointer;
+  transform: rotate(-10deg);
+}
+
+.toFishesButton:hover {
+  color: white;
+  background-color: #2289ff;
+  border: solid 3px #0077ff;
 }
